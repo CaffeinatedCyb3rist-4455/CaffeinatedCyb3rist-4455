@@ -6,7 +6,7 @@ Cybersecurity Student - Aspiring Cybersecurity Professional
 
 ### About Me 
 
-Hello! I'm a cybersecurity student with a passion for technology and making a positive impact in our digitilzed world. My mission is to help individuals and organizations navigate the complexities of the cybersecurity landscape. Through continous learning and growth of skills, I aim to provide tailored insights to improve human behavior and understanding, and to stengthen organizational security postures. Throgh this, I apsire in fostering a more secure and reslilient digital environment. 
+Hello! I'm a cybersecurity student with a passion for technology and making a positive impact in our digitilzed world. My mission is to help individuals and organizations navigate the complexities of the cybersecurity landscape. Through continous learning and growth of skills, I aim to provide tailored insights to improve human behavior and understanding, and to stengthen organizational security postures, all to achieve our collective effort of fostering a safer digital environment.
 
 ### What You'll Find Here 
 
