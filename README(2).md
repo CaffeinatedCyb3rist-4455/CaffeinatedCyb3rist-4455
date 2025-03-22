@@ -16,12 +16,12 @@ Educational Content: Comprehensive guides and tutorials on various cybersecurity
 
 ### Skills
 
-<p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
-<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
-<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="MacOS" width="42" height="42" /></a>
-<a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="42" height="42" /></a>
+<p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" /></a>
+<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>
+<a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36" /></a>
+<a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" /></a>
+<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="MacOS" width="36" height="36" /></a>
+<a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="36" height="36" /></a>
 </p>
 
 ### Socials
