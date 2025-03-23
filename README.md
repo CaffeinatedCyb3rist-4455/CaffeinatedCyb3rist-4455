@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Student - Aspiring Cybersecurity Professional
 ---------------------------------------
 
-### About Me 
+### About Me:
 
 Hello! I'm a cybersecurity student with a passion for technology and making a positive impact in our digitilzed world. My mission is to help individuals and organizations navigate the complexities of the cybersecurity landscape. Through continous learning and growth of skills, I aim to provide tailored insights to improve human behavior and understanding, and to stengthen organizational security postures, all to achieve our collective effort of fostering a safer digital environment.
 
-### What You'll Find Here 
+### What You'll Find Here: 
 
 `Educational Projects`: Comprehensive guides of completed labs showcasing practical applications of cybersecurity topics.
 
@@ -18,7 +18,7 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 * 🖥️  See my portfolio at (** *Work in Progress* **)
 
-### Skills
+### Skills:
 
 <p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="34" height="34" /></a>
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" /></a>
@@ -28,14 +28,14 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 <a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="34" height="34" /></a>
 </p>
 
-### Socials
+### Socials:
 
 <p align="left"> 
   <a href="https://github.com/CaffeinatedCyb3rist-4455" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" /> </picture> </a> 
   <a href="https://www.linkedin.com/in/ethanvancuso/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" /> </picture> </a> 
 </p>
 
-### Badges
+### Badges:
 
 <b>My GitHub Stats</b>
 
