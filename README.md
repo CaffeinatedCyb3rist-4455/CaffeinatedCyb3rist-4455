@@ -20,19 +20,19 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 ### Skills
 
-<p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" /></a>
-<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>
-<a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36" /></a>
-<a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" /></a>
-<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="MacOS" width="36" height="36" /></a>
-<a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="36" height="36" /></a>
+<p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="34" height="34" /></a>
+<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" /></a>
+<a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="34" height="34" /></a>
+<a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="34" height="34" /></a>
+<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="MacOS" width="34" height="34" /></a>
+<a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="34" height="34" /></a>
 </p>
 
 ### Socials
 
 <p align="left"> 
-  <a href="https://github.com/CaffeinatedCyb3rist-4455" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/ethanvancuso/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /> </picture> </a> 
+  <a href="https://github.com/CaffeinatedCyb3rist-4455" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/ethanvancuso/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" /> </picture> </a> 
 </p>
 
 ### Badges
