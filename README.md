@@ -31,7 +31,7 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 ### Socials
 
 <p align="left"> 
-  <a href="https://github.com/Th3Caff3inatedCyb3rist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </picture> </a> 
+  <a href="https://github.com/CaffeinatedCyb3rist-4455" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </picture> </a> 
   <a href="https://www.linkedin.com/in/ethanvancuso/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /> </picture> </a> 
 </p>
 
@@ -39,4 +39,4 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 <b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3Caff3inatedCyb3rist&show_icons=true&locale=en" alt="Th3Caff3inatedCyb3rist" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3Caff3inatedCyb3rist&show_icons=true&locale=en" alt="https://github.com/CaffeinatedCyb3rist-4455" /></p>
