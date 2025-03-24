@@ -24,7 +24,7 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" /></a>
 <a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="34" height="34" /></a>
 <a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="34" height="34" /></a>
-<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="MacOS" width="34" height="34" /></a>
+<a target="_blank" href="https://apple.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_(2017).svg" alt="MacOS" width="34" height="34" /></a>
 <a target="_blank" href="https://www.microsoft.com/en-us/windows/?r=1" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="34" height="34" /></a>
 </p>
 
