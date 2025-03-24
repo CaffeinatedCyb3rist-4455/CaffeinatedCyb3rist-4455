@@ -11,9 +11,7 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 ### What You'll Find Here: 
 
 `Educational Projects`: Comprehensive guides of completed labs showcasing practical applications of cybersecurity topics.
-
 `Insights & Analysis`: Detailed breakdowns of labs, highlighting key takeaways and lessions learned including practical threats, vulnerabilities, and more; along with best practices. 
-
 `Learning Resources`: Hands-on examples to help others enhance and strengthen their cybersecurity knowledge.
 
 * 🖥️  See my portfolio at (** *Work in Progress* **)
