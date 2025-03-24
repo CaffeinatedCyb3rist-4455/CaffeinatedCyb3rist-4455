@@ -39,4 +39,4 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 <b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CaffeinatedCyb3rist-4455&show_icons=true&locale=en" alt="https://github.com/CaffeinatedCyb3rist-4455" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CaffeinatedCyb3rist-4455&show_icons=true&theme=transparent" alt="https://github.com/CaffeinatedCyb3rist-4455" /></p>
