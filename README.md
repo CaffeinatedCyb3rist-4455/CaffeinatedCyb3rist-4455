@@ -14,7 +14,11 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 `Insights & Analysis`: Detailed breakdowns of labs, highlighting key takeaways and lessions learned including practical threats, vulnerabilities, and more; along with best practices. 
 `Learning Resources`: Hands-on examples to help others enhance and strengthen their cybersecurity knowledge.
 
-* 🖥️  See my other portfolio at (** *Work in Progress* **)
+* 🖥️  See my other portfolio at (** *In Construction* **)
+
+### Currently Working On:
+
+(** *In Construction* **)
 
 ### Skills:
 
