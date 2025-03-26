@@ -20,6 +20,11 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 (** *In Construction* **)
 
+<!-- 
+(1) Add Portfolio Website as one
+(2) Add Windows Server as one
+-->
+
 ### Skills:
 
 <p><a target="_blank" href="https://www.java.com/en/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="34" height="34" /></a>
