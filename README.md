@@ -18,7 +18,7 @@ Hello! I'm a cybersecurity student with a passion for technology and making a po
 
 ### Currently Working On:
 
-(** *In Construction* **)
+(** *Malware Analysis Report Repo* **)
 
 <!-- 
 (1) Add Portfolio Website as one
