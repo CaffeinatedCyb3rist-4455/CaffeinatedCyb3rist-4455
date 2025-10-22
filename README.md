@@ -1,4 +1,4 @@
-<img src='https://github.com/CaffeinatedCyb3rist-4455/RandomStuff/blob/0b5de738d9a746af6c90f907e2dc694012a9fa15/Images/LinkedIn-Banner.jpg' alt="Image Banner">
+<img src='https://github.com/CaffeinatedCyb3rist-4455/-Archive-/blob/f49f0e29c70d7cb7eeb61aa49057833d7a55ebcf/images/LinkedIn-Banner.jpg' alt="Image Banner">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    My name is Ethan
 =============================================================================================================================
